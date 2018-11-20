@@ -1,3 +1,4 @@
+# Ruby Calculation using RSpec testing
 ## Aim
 This project was built with the objective to practice RSpec testing by creating a calculator with the basic operations: addition, substraction, multiplication and division.
 
